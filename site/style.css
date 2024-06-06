@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .hero {
+    text-align: center;
+    padding: 50px;
+    background-color: #f0f0f0;
+  }
+  
+  .hero h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .hero img {
+    width: 200px;
+    border-radius: 50%;
+    margin: 10px;
+  }
+  
+  .about, .experience, .skills, .contact {
+    padding: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  .experience ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .experience li {
+    margin-bottom: 15px;
+  }
+  
+  .contact p {
+    margin-bottom: 10px;
+  }
+  
